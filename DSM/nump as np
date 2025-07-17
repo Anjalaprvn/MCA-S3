@@ -1,0 +1,31 @@
+program:
+
+import numpy as np
+a=np.array([1,2,3])
+a
+
+ouput:
+array([1, 2, 3])
+
+z=np.zeros([2,3])
+z
+
+output:
+
+array([[0., 0., 0.],
+       [0., 0., 0.]])
+
+r=np.arange(0,10,2)
+r
+
+output:
+
+array([0, 2, 4, 6, 8])
+
+b=np.array([3,4,5])
+a+b
+
+output:
+
+array([4, 6, 8])
+
